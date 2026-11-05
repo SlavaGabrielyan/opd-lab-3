@@ -14,7 +14,6 @@ script = ExtResource("1_hptex")
 amplitudeRange = Vector2(500, 3000)
 velocity = Vector2(-750, 20)
 Health = 10.0
-db688c7 (Изменены параметры летучей мыши и создана документация)
 metadata/_custom_type_script = "uid://jxvguwybt4v8"
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1312048075]
